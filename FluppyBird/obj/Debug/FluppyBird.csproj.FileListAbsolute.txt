@@ -1,0 +1,10 @@
+C:\Users\sandr\source\repos\FluppyBird\FluppyBird\bin\Debug\FluppyBird.exe.config
+C:\Users\sandr\source\repos\FluppyBird\FluppyBird\bin\Debug\FluppyBird.exe
+C:\Users\sandr\source\repos\FluppyBird\FluppyBird\bin\Debug\FluppyBird.pdb
+C:\Users\sandr\source\repos\FluppyBird\FluppyBird\obj\Debug\FluppyBird.csprojAssemblyReference.cache
+C:\Users\sandr\source\repos\FluppyBird\FluppyBird\obj\Debug\FluppyBird.Form1.resources
+C:\Users\sandr\source\repos\FluppyBird\FluppyBird\obj\Debug\FluppyBird.Properties.Resources.resources
+C:\Users\sandr\source\repos\FluppyBird\FluppyBird\obj\Debug\FluppyBird.csproj.GenerateResource.cache
+C:\Users\sandr\source\repos\FluppyBird\FluppyBird\obj\Debug\FluppyBird.csproj.CoreCompileInputs.cache
+C:\Users\sandr\source\repos\FluppyBird\FluppyBird\obj\Debug\FluppyBird.exe
+C:\Users\sandr\source\repos\FluppyBird\FluppyBird\obj\Debug\FluppyBird.pdb
