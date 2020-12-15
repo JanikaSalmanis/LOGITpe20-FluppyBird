@@ -93,5 +93,10 @@ namespace FluppyBird
             NewForm.Show();
             this.Dispose(false);
         }
+
+        private void scoreLabel_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

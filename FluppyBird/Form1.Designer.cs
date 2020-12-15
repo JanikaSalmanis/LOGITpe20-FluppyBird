@@ -86,6 +86,7 @@ namespace FluppyBird
             this.scoreLabel.Size = new System.Drawing.Size(107, 31);
             this.scoreLabel.TabIndex = 4;
             this.scoreLabel.Text = "score: 0";
+            this.scoreLabel.Click += new System.EventHandler(this.scoreLabel_Click);
             // 
             // timer1
             // 
